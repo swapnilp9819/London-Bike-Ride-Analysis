@@ -1,4 +1,4 @@
-# London-Bike-Ride-Analysis
+# London Bike Ride Analysis
 
 ## Introduction
 This project analyzes London bike sharing data to uncover usage patterns and the impact of weather conditions on bike rides. Using Python and Tableau, dynamic visualizations provide insights into bike usage trends, helping to optimize bike sharing services.
